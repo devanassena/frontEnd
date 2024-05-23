@@ -4,20 +4,9 @@ Este repositório contém exemplos e exercícios para a introdução à programa
 
 ## Conteúdo
 
-1. [Fluxogramas](#fluxogramas)
-2. [Estruturas de Repetição, Variáveis, Operadores e Estruturas Condicionais](#estruturas-de-repetição-variáveis-operadores-e-estruturas-condicionais)
-3. [Funções e Comandos de Entrada e Saída de Dados](#funções-e-comandos-de-entrada-e-saída-de-dados)
-4. [Declaração de Arrays](#declaração-de-arrays)
-5. [Índices e Função `len()`](#índices-e-função-len)
-6. [Percorrer Arrays](#percorrer-arrays)
-7. [Manipular Arrays](#manipular-arrays)
-8. [Vetores](#vetores)
-
 ## Fluxogramas
 
 Fluxogramas são diagramas que representam o fluxo de execução de um programa. Eles utilizam formas geométricas para representar operações e setas para indicar a sequência das operações.
-
-![Fluxograma de Exemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Flowchart_examples_with_simplified_symbols_and_connectors.png/400px-Flowchart_examples_with_simplified_symbols_and_connectors.png)
 
 ## Estruturas de Repetição, Variáveis, Operadores e Estruturas Condicionais
 
